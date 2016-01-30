@@ -10,7 +10,7 @@ This is the second part for the course project for **Module 9 - Developing Data 
 
 The source code for this **_R Presentation_** is available at:
 
-<https://github.com/petesiau/Developing_Data_Product_Presentation>
+<https://github.com/petesiau/Developing_Data_Products/tree/master/Presentation>
 
 
 The Shiny Application

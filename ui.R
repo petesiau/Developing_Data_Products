@@ -36,9 +36,7 @@ shinyUI <- fluidPage(
       ) #sidebarLayout
     ), #1st tabPanel
              
-    tabPanel("Read Me",
-              mainPanel(includeMarkdown("ReadMe.md")
-              )
+    tabPanel("Read Me",mainPanel(includeMarkdown("README.md"))
     ) #tabPanel
              
   ) #navbarPage
